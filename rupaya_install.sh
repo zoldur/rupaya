@@ -120,6 +120,7 @@ maxconnections=256
 masternode=1
 externalip=$NODEIP:$COIN_PORT
 masternodeprivkey=$COINKEY
+addnode=seeds.rupx.io
 EOF
 }
 
